@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;400;500;600;700&family=PT+Serif:ital,wght@0,400;0,700;1,700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    overflow-x: hidden;
+    width: 100%;
+    background: #EFEFBB; 
+background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);  
+background: linear-gradient(to right, #D4D3DD, #EFEFBB); 
+
+}
+.card{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.7); 
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 40px;
+    transition: transform 0.5s;
+}
+.lab1{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: -30px;
+}
+#start_date{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-left: 10px;
+    background-color: #D4D3DD;
+}
+.lab2{
+    margin-left: 80%;
+}
+#end_date{
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #EFEFBB;
+
+}

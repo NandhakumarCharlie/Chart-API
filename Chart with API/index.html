@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edamam API Integration</title>
+    <link rel="stylesheet" href="style.css">
+    <!--Bootstrap 5 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    
+    <!--JavaScript for Bootstrap 5 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> 
+    <!-- ECharts-->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <!-- jQuery-->
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    
+    
+</head>
+<body>
+    <h1 class="p-4">COVID-19 Cases Using API</h1>
+    <h1 class="m-4">Date Range Selector</h1>
+    <div class="lab1">
+    <label for="start_date">Start Date:</label>
+    <input type="date" id="start_date" required>
+   </div>
+   <div class="lab2">
+    <label for="end_date">End Date:</label>
+    <input type="date" id="end_date" required>
+    </div>
+  
+    <div id="chart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="m-auto mx-5">Line chart</h2>
+    <div id="mychart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">Radar chart</h2>
+    <div id="radar-chart" class="card p-4" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">HeatMap chart</h2>
+    <div id="heatmap-chart" class="card p-4" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">Sankey chart</h2>
+    <div id="sankey-chart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">Gauge chart</h2>
+    <div id="gauge-chart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">Treemap Disk Usage chart</h2>
+    <div id="disk-chart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">OHLC chart</h2>
+    <div id="ohlc-chart" class="card" style="width: 1300px; height: 450px;"></div>
+    <h2 class="mx-5">Tree Map chart</h2>
+    <div id="reemap-chart" class="card" style="width: 1300px; height: 450px;"></div>
+
+
+
+
+
+
+
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,152 @@
+[
+  {
+    "Time": "1899-12-1",
+    "Average_temp": 20.07105245,
+    "vav_name": "VAV 1"
+  },
+  {
+    "Time": "1899-12-2",
+    "Average_temp": 24.84949999,
+    "vav_name": "VAV 10"
+  },
+  {
+    "Time": "1899-12-3",
+    "Average_temp": 23.53450003,
+    "vav_name": "VAV 11"
+  },
+  {
+    "Time": "1899-12-4",
+    "Average_temp": 19.50550003,
+    "vav_name": "VAV 12"
+  },
+  {
+    "Time": "1899-12-5",
+    "Average_temp": 24.15949993,
+    "vav_name": "VAV 13"
+  },
+  {
+    "Time": "1899-12-6",
+    "Average_temp": 22.15842117,
+    "vav_name": "VAV 2"
+  },
+  {
+    "Time": "1899-12-7",
+    "Average_temp": 26.41631578,
+    "vav_name": "VAV 3"
+  },
+  {
+    "Time": "1899-12-8",
+    "Average_temp": 18.29578952,
+    "vav_name": "VAV 4"
+  },
+  {
+    "Time": "1899-12-8",
+    "Average_temp": 22.53052641,
+    "vav_name": "VAV 5"
+  },
+  {
+    "Time": "1899-12-10",
+    "Average_temp": 21.76000023,
+    "vav_name": "VAV 6"
+  },
+  {
+    "Time": "1899-12-11",
+    "Average_temp": 27.15999994,
+    "vav_name": "VAV 7"
+  },
+  {
+    "Time": "1899-12-12",
+    "Average_temp": 23.87699995,
+    "vav_name": "VAV 8"
+  },
+  {
+    "Time": "1899-12-13",
+    "Average_temp": 25.24349995,
+    "vav_name": "VAV 9"
+  },
+  {
+    "Time": "1899-12-14",
+    "Average_temp": 19.10100021,
+    "vav_name": "VAV 10"
+  },
+  {
+    "Time": "1899-12-15",
+    "Average_temp": 19.87699995,
+    "vav_name": "VAV 11"
+  },
+  {
+    "Time": "1899-12-16",
+    "Average_temp": 21.24349995,
+    "vav_name": "VAV 12"
+  },
+  {
+    "Time": "1899-12-17",
+    "Average_temp": 25.10100021,
+    "vav_name": "VAV 13"
+  },
+  {
+    "Time": "1899-12-18",
+    "Average_temp": 22.97699995,
+    "vav_name": "VAV 14"
+  },
+  {
+    "Time": "1899-12-19",
+    "Average_temp": 20.24349995,
+    "vav_name": "VAV 15"
+  },
+  {
+    "Time": "1899-12-20",
+    "Average_temp": 24.90100021,
+    "vav_name": "VAV 16"
+  },
+  {
+    "Time": "1899-12-21",
+    "Average_temp": 28.67329995,
+    "vav_name": "VAV 17"
+  },
+  {
+    "Time": "1899-12-22",
+    "Average_temp": 20.84849995,
+    "vav_name": "VAV 18"
+  },
+  {
+    "Time": "1899-12-23",
+    "Average_temp": 24.209100021,
+    "vav_name": "VAV 19"
+  },
+  {
+    "Time": "1899-12-24",
+    "Average_temp": 19.173799995,
+    "vav_name": "VAV 20"
+  },
+  {
+    "Time": "1899-12-25",
+    "Average_temp": 22.254492995,
+    "vav_name": "VAV 12"
+  },
+  {
+    "Time": "1899-12-26",
+    "Average_temp": 26.823100021,
+    "vav_name": "VAV 14"
+  },
+  {
+    "Time": "1899-12-27",
+    "Average_temp": 18.276789395,
+    "vav_name": "VAV 10"
+  },
+  {
+    "Time": "1899-12-28",
+    "Average_temp": 27.28319995,
+    "vav_name": "VAV 15"
+  },
+  {
+    "Time": "1899-12-29",
+    "Average_temp": 20.10804021,
+    "vav_name": "VAV 8"
+  },
+  {
+    "Time": "1899-12-30",
+    "Average_temp": 26.16884021,
+    "vav_name": "VAV 4"
+  }
+]

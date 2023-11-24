@@ -1,0 +1,1098 @@
+[{
+    "status": true,
+    "result": {
+        "total": 19,
+        "data": {
+            "recordsTotal": 19,
+            "recordsFiltered": 19,
+            "data": [
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0010",
+                    "building_id": "ZBBID0002",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "Tanker Meter",
+                    "flowrate": "0.40",
+                    "floor_name": "Basement 2",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579435984,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block B",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F328",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "1551000.00",
+                    "room_name": "WT Room ",
+                    "floor_id": "ZBFID00010",
+                    "last_updated_ts": 1699435364000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "Tanker Meter"
+                    ],
+                    "equipment_count": 10,
+                    "equipment_id": "ZBEID0010",
+                    "essential": false,
+                    "_id": "b1f7a43a-2530-4159-8c0c-d95caaff1898"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0008",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "AGF DELOITTE",
+                    "flowrate": "0.00",
+                    "floor_name": "GF",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579180575,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "3460.00",
+                    "room_name": "GF- FL ",
+                    "floor_id": "ZBFID0002",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "DELOITTE"
+                    ],
+                    "equipment_count": 2,
+                    "equipment_id": "ZBEID0002",
+                    "essential": false,
+                    "_id": "4ff70bfe-1a14-45ae-a9c4-4475f8947c3b"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0005",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A4F RIVERBED",
+                    "flowrate": "0.15",
+                    "floor_name": "4F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1691992206542,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "278110.00",
+                    "room_name": "FL 4 ",
+                    "floor_id": "ZBFID0006",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 10,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "RIVERBED"
+                    ],
+                    "equipment_count": 18,
+                    "equipment_id": "ZBEID0018",
+                    "essential": false,
+                    "_id": "51df36f5-f315-4c62-8de8-c7a011d81083"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0001",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A DELOITTE FOOD COURT",
+                    "flowrate": "0.72",
+                    "floor_name": "Food Court",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579180575,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "967940.00",
+                    "room_name": "Food Court -FL ",
+                    "floor_id": "ZBFID0001",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 100,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "Food court"
+                    ],
+                    "equipment_count": 1,
+                    "equipment_id": "ZBEID0001",
+                    "essential": false,
+                    "_id": "e5a6bcc5-15c6-4ad6-a846-0e165b8e392c"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0004",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A3F GRAB GRECO LLP",
+                    "flowrate": "0.00",
+                    "floor_name": "3F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579243604,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "92700.00",
+                    "room_name": "FL 3 ",
+                    "floor_id": "ZBFID0005",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "GRAB GRECO LLP"
+                    ],
+                    "equipment_count": 5,
+                    "equipment_id": "ZBEID0005",
+                    "essential": false,
+                    "_id": "4a545246-7719-4ca0-be2d-cdeb0dd0b565"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0014",
+                    "building_id": "ZBBID0002",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "B1F B WING",
+                    "flowrate": "0.00",
+                    "floor_name": "1F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579352379,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block B",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC6107950",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "11620.00",
+                    "room_name": "B WING ",
+                    "floor_id": "ZBFID00013",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "B- BLOCK 1F"
+                    ],
+                    "equipment_count": 9,
+                    "equipment_id": "ZBEID0009",
+                    "essential": false,
+                    "_id": "5105aab3-6e58-4d87-acee-7bc723856b7a"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0003",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A2F DELOITTE",
+                    "flowrate": "0.07",
+                    "floor_name": "2F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579209714,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "505540.00",
+                    "room_name": "FL 2 ",
+                    "floor_id": "ZBFID0004",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 10,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "DELOITTE"
+                    ],
+                    "equipment_count": 4,
+                    "equipment_id": "ZBEID0004",
+                    "essential": false,
+                    "_id": "04aa795d-d43b-48ed-b9fe-9f486e4b85e9"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0002",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A1F DELOITTE",
+                    "flowrate": "0.00",
+                    "floor_name": "1F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579209714,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "1760.00",
+                    "room_name": "FL 1 ",
+                    "floor_id": "ZBFID0003",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "DELOITTE"
+                    ],
+                    "equipment_count": 3,
+                    "equipment_id": "ZBEID0003",
+                    "essential": false,
+                    "_id": "bf83525e-da74-4f04-a953-554fd66a6565"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0013",
+                    "building_id": "ZBBID0002",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "BGF B WING",
+                    "flowrate": "0.00",
+                    "floor_name": "GF",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1677579318534,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block B",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC6107950",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "44790.00",
+                    "room_name": "B WING ",
+                    "floor_id": "ZBFID00012",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 0,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "B- BLOCK GF"
+                    ],
+                    "equipment_count": 7,
+                    "equipment_id": "ZBEID0007",
+                    "essential": false,
+                    "_id": "832be384-a43a-415c-80c6-586ef31b6bb1"
+                },
+                {
+                    "area_name": "kadubeesanahalli",
+                    "room_id": "ZBRID0006",
+                    "building_id": "ZBBID0001",
+                    "equipment_nam": "Flow Meter0.1",
+                    "img": "ffadecfe-dea1-472d-a5da-d89fd4ba6a2c",
+                    "equi_nam": "A5F ARUBA",
+                    "flowrate": "0.00",
+                    "floor_name": "5F",
+                    "last_updated_by": "aura@sattvagroup.in",
+                    "configParams": [],
+                    "created_ts": 1691992246800,
+                    "domainKey": "DUWETOHCLB",
+                    "building_name": "Block A",
+                    "is_active": true,
+                    "device_id": "ZBDID943CC610F580",
+                    "group_name": "sattva aura",
+                    "org_type": "building",
+                    "params": [
+                        {
+                            "unit": "l/s",
+                            "name": "flowrate",
+                            "alarm": true,
+                            "description": "Flow rate",
+                            "control": false,
+                            "uncontrol": true
+                        },
+                        {
+                            "unit": "l",
+                            "name": "totalflow",
+                            "alarm": true,
+                            "description": "Total flow",
+                            "control": false,
+                            "uncontrol": true
+                        }
+                    ],
+                    "created_by": "aura@sattvagroup.in",
+                    "totalflow": "474290.00",
+                    "room_name": "FL 5 ",
+                    "floor_id": "ZBFID0007",
+                    "last_updated_ts": 1699435359000,
+                    "currentWaterFlow": 10,
+                    "cust_id": "ZBCID00013",
+                    "waterGroup": [
+                        "ARUBA"
+                    ],
+                    "equipment_count": 19,
+                    "equipment_id": "ZBEID0019",
+                    "essential": false,
+                    "_id": "99ab2e1a-e8bc-4ac7-badf-f355adc9e8c3"
+                }
+            ]
+        },
+        "aggregations": {
+            "equipmentid": {
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0,
+                "buckets": [
+                    {
+                        "key": "ZBEID0001",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.11941186,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "e5a6bcc5-15c6-4ad6-a846-0e165b8e392c",
+                                        "_score": 0.11941186,
+                                        "_source": {
+                                            "floor_name": "Food Court",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A DELOITTE FOOD COURT",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0001"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0002",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.11941186,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "4ff70bfe-1a14-45ae-a9c4-4475f8947c3b",
+                                        "_score": 0.11941186,
+                                        "_source": {
+                                            "floor_name": "GF",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "AGF DELOITTE",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0002"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0003",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "bf83525e-da74-4f04-a953-554fd66a6565",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "1F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A1F DELOITTE",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0003"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0004",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "04aa795d-d43b-48ed-b9fe-9f486e4b85e9",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "2F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A2F DELOITTE",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0004"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0005",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.11941186,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "4a545246-7719-4ca0-be2d-cdeb0dd0b565",
+                                        "_score": 0.11941186,
+                                        "_source": {
+                                            "floor_name": "3F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A3F GRAB GRECO LLP",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0005"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0006",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.03187268,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "e1776eac-4c43-402b-a344-15bdd7911e3a",
+                                        "_score": 0.03187268,
+                                        "_source": {
+                                            "floor_name": "2F",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC6107950",
+                                            "equi_nam": "B2F B WING DELOITTE",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0006"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0007",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0465135,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "832be384-a43a-415c-80c6-586ef31b6bb1",
+                                        "_score": 0.0465135,
+                                        "_source": {
+                                            "floor_name": "GF",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC6107950",
+                                            "equi_nam": "BGF B WING",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0007"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0008",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "681811fb-902f-45a9-9d99-cd28347245c3",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "2F",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID3C6105038B54",
+                                            "equi_nam": "B2F A WING DELOITTE",
+                                            "last_updated_ts": 1699435280000,
+                                            "equipment_id": "ZBEID0008"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0009",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "5105aab3-6e58-4d87-acee-7bc723856b7a",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "1F",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC6107950",
+                                            "equi_nam": "B1F B WING",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0009"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0010",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "b1f7a43a-2530-4159-8c0c-d95caaff1898",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "Basement 2",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F328",
+                                            "equi_nam": "Tanker Meter",
+                                            "last_updated_ts": 1699435364000,
+                                            "equipment_id": "ZBEID0010"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0011",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0465135,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "dba909e6-846e-499c-9658-3af5f473ccdb",
+                                        "_score": 0.0465135,
+                                        "_source": {
+                                            "floor_name": "GF",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID3C6105038B54",
+                                            "equi_nam": "BGF A WING",
+                                            "last_updated_ts": 1699435280000,
+                                            "equipment_id": "ZBEID0011"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0012",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.03187268,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "b1ecc84f-93cd-46be-a907-e9cca91b12ca",
+                                        "_score": 0.03187268,
+                                        "_source": {
+                                            "floor_name": "1F",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID3C6105038B54",
+                                            "equi_nam": "B1F A WING",
+                                            "last_updated_ts": 1699435280000,
+                                            "equipment_id": "ZBEID0012"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0013",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0006085038,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "c9e02da6-59de-4a21-b29a-c4017177c265",
+                                        "_score": 0.0006085038,
+                                        "_source": {
+                                            "floor_name": "",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "equi_nam": "",
+                                            "last_updated_ts": 1677579467802,
+                                            "equipment_id": "ZBEID0013"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0014",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0465135,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "d67e9f95-7a06-4eb9-b899-ce526fad5705",
+                                        "_score": 0.0465135,
+                                        "_source": {
+                                            "floor_name": "",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "equi_nam": "",
+                                            "last_updated_ts": 1677579493853,
+                                            "equipment_id": "ZBEID0014"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0015",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.03187268,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "d134b340-c265-495b-ab68-91433093fb61",
+                                        "_score": 0.03187268,
+                                        "_source": {
+                                            "floor_name": "",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "equi_nam": "",
+                                            "last_updated_ts": 1677579530575,
+                                            "equipment_id": "ZBEID0015"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0017",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.03187268,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "c50b54a2-52db-4105-a750-3157d04dc5f9",
+                                        "_score": 0.03187268,
+                                        "_source": {
+                                            "floor_name": "",
+                                            "building_name": "Block B",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "equi_nam": "",
+                                            "last_updated_ts": 1691990892335,
+                                            "equipment_id": "ZBEID0017"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0018",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.11941186,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "51df36f5-f315-4c62-8de8-c7a011d81083",
+                                        "_score": 0.11941186,
+                                        "_source": {
+                                            "floor_name": "4F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A4F RIVERBED",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0018"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0019",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.0465135,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "99ab2e1a-e8bc-4ac7-badf-f355adc9e8c3",
+                                        "_score": 0.0465135,
+                                        "_source": {
+                                            "floor_name": "5F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A5F ARUBA",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0019"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "key": "ZBEID0020",
+                        "doc_count": 1,
+                        "obj_status": {
+                            "hits": {
+                                "total": {
+                                    "value": 1,
+                                    "relation": "eq"
+                                },
+                                "max_score": 0.03187268,
+                                "hits": [
+                                    {
+                                        "_index": "rec_30004_duwetohclb",
+                                        "_type": "_doc",
+                                        "_id": "1b9a225f-2b3d-45f2-9a46-86e00f3d26fa",
+                                        "_score": 0.03187268,
+                                        "_source": {
+                                            "floor_name": "6F",
+                                            "building_name": "Block A",
+                                            "equipment_nam": "Flow Meter0.1",
+                                            "device_id": "ZBDID943CC610F580",
+                                            "equi_nam": "A6F ARUBA",
+                                            "last_updated_ts": 1699435359000,
+                                            "equipment_id": "ZBEID0020"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "scroll_id": null
+    }
+}
+]

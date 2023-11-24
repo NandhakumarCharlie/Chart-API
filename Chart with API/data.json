@@ -1,0 +1,10 @@
+[
+    { "country": "USA", "cases": 30000000 },
+    { "country": "India", "cases": 25000000 },
+    { "country": "Brazil", "cases": 17000000 },
+    { "country": "France", "cases": 6000000 },
+    { "country": "Italy", "cases": 5500000 },
+    { "country": "Singapore", "cases": 9502000 },
+    { "country": "Malaysia", "cases": 6803600 },
+    { "country": "Taiwan", "cases": 3506000 }
+]

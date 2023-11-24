@@ -1,0 +1,8 @@
+[
+    { "name": "Madurai", "current": 150, "deaths": 50, "cured": 100 },
+    { "name": "Chennai", "current": 250, "deaths": 70, "cured": 180 },
+    { "name": "Vellore", "current": 180, "deaths": 30, "cured": 150 },
+    { "name": "Villupuram", "current": 140, "deaths": 20, "cured": 90 },
+    { "name": "Cuddalore", "current": 160, "deaths": 60, "cured": 100 },
+    { "name": "Trichy", "current": 120, "deaths": 70, "cured": 130 }
+]

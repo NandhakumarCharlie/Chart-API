@@ -1,0 +1,16 @@
+{
+    "temperature": 25.5,
+    "org_type": "building",
+    "params": [
+        { "unit": "", "name": "vas", "alarm": true, "description": "Status", "control": true, "uncontrol": true },
+        { "unit": "%", "name": "dmp", "alarm": true, "description": "Damper Position", "control": false, "uncontrol": true },
+        { "unit": "%", "name": "sps", "alarm": true, "description": "Set Damper Position", "control": true },
+        { "unit": "°C", "name": "st2", "alarm": true, "description": "Set Temperature", "control": true, "uncontrol": true }
+    ],
+    "alarm": true,
+    "control": true,
+    "description": "Set Temperature",
+    "name": "st2",
+    "uncontrol": true,
+    "unit": "°C"
+}

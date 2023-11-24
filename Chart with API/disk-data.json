@@ -1,0 +1,96 @@
+[
+    {
+      "value": 60,
+      "name": "Finance",
+      "path": "Finance"
+    },
+    {
+      "value": 220,
+      "name": "Sales",
+      "path": "Sales",
+      "children": [
+        {
+          "value": 80,
+          "name": "Product Sales",
+          "path": "Sales/Product Sales",
+          "children": [
+            {
+              "value": 15,
+              "name": "Electronics",
+              "path": "Sales/Product Sales/Electronics"
+            },
+            {
+              "value": 25,
+              "name": "Clothing",
+              "path": "Sales/Product Sales/Clothing"
+            },
+            {
+              "value": 20,
+              "name": "Furniture",
+              "path": "Sales/Product Sales/Furniture"
+            },
+            {
+              "value": 20,
+              "name": "Toys",
+              "path": "Sales/Product Sales/Toys"
+            }
+          ]
+        },
+        {
+          "value": 70,
+          "name": "Service Sales",
+          "path": "Sales/Service Sales",
+          "children": [
+            {
+              "value": 15,
+              "name": "Consulting",
+              "path": "Sales/Service Sales/Consulting"
+            },
+            {
+              "value": 30,
+              "name": "Maintenance",
+              "path": "Sales/Service Sales/Maintenance"
+            },
+            {
+              "value": 25,
+              "name": "Repairs",
+              "path": "Sales/Service Sales/Repairs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": 45,
+      "name": "Marketing",
+      "path": "Marketing"
+    },
+    {
+      "value": 80,
+      "name": "Human Resources",
+      "path": "Human Resources"  
+    },
+    {
+      "value": 120,
+      "name": "Research & Development",
+      "path": "Research & Development",
+      "children": [
+        {
+          "value": 30,
+          "name": "Research",
+          "path": "Research & Development/Research"
+        },
+        {
+          "value": 45,
+          "name": "Development",
+          "path": "Research & Development/Development"
+        },
+        {
+          "value": 45,
+          "name": "Testing",
+          "path": "Research & Development/Testing"
+        }
+      ]
+    }
+  ]
+  
